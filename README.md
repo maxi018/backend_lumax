@@ -1,3 +1,6 @@
+> **quantbot (bot de trading + dashboard):** `./run.sh` levanta bot + API + dashboard en
+> modo demo → http://127.0.0.1:8765. Documentación en [`trading_bot/README.md`](trading_bot/README.md).
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
